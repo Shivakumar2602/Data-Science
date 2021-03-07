@@ -1,7 +1,7 @@
 # Data Science
 Data Science - Machine Learning concepts with examples.
 
-Machine Learning Concepts:
+Machine Learning:
 * Hypothesis Testing
 * Classification
 * Regression
@@ -12,4 +12,6 @@ Machine Learning Concepts:
 
 Deep Learning Concepts:
 * Artificial Neural Networks
-* 
+
+Natural Language Processing:
+* Bag of words
